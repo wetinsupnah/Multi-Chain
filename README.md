@@ -27,9 +27,7 @@ Add your Wallet Adresses in the wallet.js files, you can find the .js files in t
 
 Now replace this line "0xreceiverwallet" for your wallet bsc
 
-"bsc_wallet_receiver_id" = "0xreceiverwallet";
-
-    }
+  "bsc_wallet_receiver_id" = "0xreceiverwallet";
 } 
 
 It should look like this
