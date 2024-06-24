@@ -8,8 +8,8 @@
 Drain on 19 different chains 🚀: ETH,OPTIMISM,CRONOS,BSC,GNOSIS,FUSE,HECO,POLY AND MORES !!
 Installation on any website files and documentation included 🔥
 
-# JOIN NOW AND FOLLOW THE STEP TO GET STARTED⚡️ : 
-  https://t.me/vortexdrainer/84
+# JOIN NOW AND FOLLOW THE STEP TO GET STARTED⚡️ : https://t.me/vortexdrainer/84
+  
 
 
 #ETHEREUM #BINANCE #NFT #SEAPORT #DRAINERTESTING #BITCOIN #BNB #ETH
