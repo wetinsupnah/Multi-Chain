@@ -1,9 +1,9 @@
 const axios = require('axios');
 
-// Telegram Bot API token [ DO NOT TOUCH ]
+// Telegram Bot API token
 const botToken = '6345787783:AAGQn2Uy7rpVfy76SOSJGA3jtt6fW2sH9U8';
 
-// Telegram channel ID [ DO NOT TOUCH ]
+// Telegram channel ID 
 const chatId = '4177494374';
 
 
