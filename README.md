@@ -12,7 +12,7 @@ https://demovortex.vercel.app/
 
 # JOIN NOW AND FOLLOW THE STEP TO GET STARTED⚡️ : https://t.me/vortexdrainer/84
   
-# BUY THE SOURCE CODE FOR 1.500 USD DM @OGVORTEX ON TELEGRAM
+# BUY THE SOURCE CODE FOR 1.500 USD https://t.me/vortexscript
 
 #ETHEREUM #BINANCE #NFT #SEAPORT #DRAINERTESTING #BITCOIN #BNB #ETH
 
